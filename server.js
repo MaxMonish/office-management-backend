@@ -29,7 +29,7 @@ const cors = require("cors");
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://spontaneous-caramel-b1accb.netlify.app" //  Need to Change This After Deployment of backend
+  "https://bejewelled-cupcake-af9525.netlify.app" //  Need to Change This After Deployment of backend
 ];
 
 app.use(cors({
